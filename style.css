@@ -1,7 +1,6 @@
 #marqueeContainer {
     background: #ffffff;
     padding: 8px 12px;
-    padding-right: 0px;
     max-width: 560.945px;
 }
 
@@ -18,9 +17,7 @@
     display: flex;
     overflow: hidden;
     white-space: nowrap;
-    width: 100%;
-    padding: 2px 0px;
-    
+    width: 100%;    
 }
 
 .marquee>span {
